@@ -11,6 +11,7 @@
 
 ## 스터디 팀원
 - [hwangjeunghwan](https://github.com/hwangjeunghwan) : `JAVA`
+- [kimdohee](https://github.com/zxdxhx) : `JAVA`
 - 각자 넣어주세요!
 
 ## 스터디 방법

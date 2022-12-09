@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Chapter1_12 {
     public static void main(String[] args) {
-
+        //Integer.parseInt(tep, 2); 2진수가 10진수로 바뀐다.
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();

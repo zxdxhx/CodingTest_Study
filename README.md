@@ -12,7 +12,7 @@
 ## 스터디 팀원
 - [hwangjeunghwan](https://github.com/hwangjeunghwan) : `JAVA`
 - [kimdohee](https://github.com/zxdxhx) : `JAVA`
-- 각자 넣어주세요!
+- [choijeonghun](https://github.com/maru9525): `JAVA`
 
 ## 스터디 방법
 - 매주 인프런의 코딩테스트 강의문제를 4문제 풀고 깃으로 커밋한다.

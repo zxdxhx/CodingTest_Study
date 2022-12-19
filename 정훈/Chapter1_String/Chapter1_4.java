@@ -1,4 +1,4 @@
-package CodingTest_Study.정훈.Chapter1_String.Chapter1_String;
+package CodingTest_Study.정훈.Chapter1_String;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
